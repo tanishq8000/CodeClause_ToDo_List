@@ -1,0 +1,9 @@
+body {
+  background-color: #e8e8e8;
+}
+footer {
+  text-align: center;
+  width: 100vw;
+  position: fixed;
+  bottom: 0;
+}
